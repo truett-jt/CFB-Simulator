@@ -8,6 +8,6 @@ All of our model testing is in cfb.ipynb. To be run the actual model used in our
 You can also use cfb.ipynb to make the API calls that will load the necessary data to csv files in the /data folder. To do so, follow these steps:
 
 1) Copy the .env.example file and rename it ".env".
-2) Generate a new API Key here:
+2) Generate a new API Key here: [generate-key](https://collegefootballdata.com/key)
 3) Place API key in the .env folder. This key will not be visible to anyone on Github.
 4) Run the "Data Collection" cells in cfb.ipynb
