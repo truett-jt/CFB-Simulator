@@ -11,3 +11,6 @@ __pycache__/
 # OS / Editor
 .DS_Store
 .vscode/
+
+# CSV Files
+data/*.csv
