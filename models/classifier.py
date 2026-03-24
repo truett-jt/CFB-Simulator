@@ -15,6 +15,7 @@ from xgboost import XGBClassifier
 BASE_DIR = Path(__file__).resolve().parents[1]
 DATA_PATH = BASE_DIR / "data" / "modeling_data.csv"
 REPORTS_DIR = BASE_DIR / "reports"
+REPORTS_DIR.mkdir(exist_ok=True)
 
 ############ Data Loading ###############
 df = pd.read_csv(DATA_PATH)
