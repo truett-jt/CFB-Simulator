@@ -1,0 +1,507 @@
+game_id,season,home_team,away_team,sp_spread,vegas_spread,provider,actual_spread
+401628319,2024,Alabama,Western Kentucky,34.0,31.0,DraftKings,63.0
+401634206,2024,Colorado,North Dakota State,9.5,9.0,DraftKings,5.0
+401628322,2024,Florida,Miami,-2.5,-2.5,DraftKings,-24.0
+401634306,2024,Florida State,Boston College,16.5,16.5,DraftKings,-15.0
+401634302,2024,Georgia Tech,Georgia State,20.5,20.5,DraftKings,23.0
+401628459,2024,Hawai'i,UCLA,-13.5,-13.5,DraftKings,-3.0
+401628449,2024,Indiana,Florida International,25.5,20.5,DraftKings,24.0
+401628324,2024,Kentucky,Southern Miss,25.5,25.5,DraftKings,31.0
+401628334,2024,LSU,USC,4.0,4.0,DraftKings,-7.0
+401629039,2024,Massachusetts,Eastern Michigan,2.5,2.5,DraftKings,-14.0
+401628452,2024,Michigan,Fresno State,21.0,21.0,DraftKings,20.0
+401628454,2024,Nebraska,UTEP,27.5,27.5,DraftKings,33.0
+401643697,2024,New Mexico,Montana State,-10.5,-10.5,DraftKings,-4.0
+401644683,2024,Northwestern,Miami (OH),3.0,4.0,DraftKings,7.0
+401628455,2024,Ohio State,Akron,49.5,50.5,DraftKings,46.0
+401628328,2024,Oklahoma,Temple,43.0,42.5,DraftKings,48.0
+401634212,2024,Oklahoma State,South Dakota State,9.5,9.5,DraftKings,24.0
+401634304,2024,Syracuse,Ohio,17.0,17.5,DraftKings,16.0
+401628331,2024,Texas,Colorado State,35.0,35.5,DraftKings,52.0
+401641015,2024,UTSA,Kennesaw State,24.0,24.0,DraftKings,12.0
+401628333,2024,Vanderbilt,Virginia Tech,-13.0,-13.5,DraftKings,7.0
+401636614,2024,Arizona,Northern Arizona,43.0,43.0,DraftKings,12.0
+401628339,2024,Georgia,Tennessee Tech,54.5,54.5,DraftKings,45.0
+401628464,2024,Iowa,Iowa State,3.0,3.0,DraftKings,-1.0
+401628341,2024,LSU,Nicholls,50.5,50.5,DraftKings,23.0
+401628347,2024,Michigan,Texas,-6.5,-7.0,DraftKings,-19.0
+401628346,2024,NC State,Tennessee,-8.5,-10.0,DraftKings,-41.0
+401636861,2024,Colorado State,Colorado,-7.5,-7.5,DraftKings,-19.0
+401628353,2024,Florida,Texas A&M,-3.0,-4.5,DraftKings,-13.0
+401635542,2024,Florida State,Memphis,7.0,7.0,DraftKings,-8.0
+401636863,2024,Kansas,UNLV,9.5,7.0,DraftKings,-3.0
+401636864,2024,Kansas State,Arizona,7.0,7.0,DraftKings,24.0
+401628354,2024,Kentucky,Georgia,-22.0,-24.0,DraftKings,-1.0
+401628483,2024,Oregon State,Oregon,-19.0,-16.0,DraftKings,-35.0
+401635547,2024,Pittsburgh,West Virginia,-2.0,-2.5,DraftKings,4.0
+401628978,2024,Purdue,Notre Dame,-7.0,-11.5,DraftKings,-59.0
+401628359,2024,South Carolina,LSU,-6.5,-7.0,DraftKings,-3.0
+401636866,2024,TCU,UCF,2.5,1.5,DraftKings,-1.0
+401628484,2024,Washington,Washington State,6.0,4.0,DraftKings,-5.0
+401628350,2024,Wisconsin,Alabama,-14.5,-15.5,DraftKings,-32.0
+401643790,2024,App State,South Alabama,7.5,8.0,DraftKings,-34.0
+401628363,2024,Auburn,Arkansas,2.5,2.5,DraftKings,-10.0
+401637162,2024,Boise State,Portland State,43.0,43.0,DraftKings,42.0
+401636872,2024,BYU,Kansas State,-7.0,-7.5,DraftKings,29.0
+401635552,2024,Clemson,NC State,19.0,17.0,DraftKings,24.0
+401635558,2024,Coastal Carolina,Virginia,-3.5,-3.5,DraftKings,-19.0
+401636874,2024,Colorado,Baylor,2.0,2.5,DraftKings,7.0
+401641028,2024,Colorado State,UTEP,8.5,8.5,DraftKings,10.0
+401635551,2024,Florida State,California,3.0,3.0,DraftKings,5.0
+401643712,2024,Hawai'i,Northern Iowa,10.0,10.0,DraftKings,29.0
+401636875,2024,Iowa State,Arkansas State,20.5,20.5,DraftKings,45.0
+401640991,2024,Liberty,East Carolina,7.5,7.5,DraftKings,11.0
+401641008,2024,Louisiana Tech,Tulsa,2.5,3.0,DraftKings,-3.0
+401635554,2024,Louisville,Georgia Tech,8.5,9.5,DraftKings,12.0
+401628365,2024,LSU,UCLA,21.5,21.5,DraftKings,17.0
+401629042,2024,Massachusetts,Central Connecticut,19.5,19.5,DraftKings,4.0
+401628489,2024,Michigan,USC,-4.0,-4.0,DraftKings,3.0
+401635553,2024,Middle Tennessee,Duke,-15.0,-14.5,DraftKings,-28.0
+401628487,2024,Minnesota,Iowa,-3.0,-3.0,DraftKings,-17.0
+401628368,2024,Missouri,Vanderbilt,18.0,17.5,DraftKings,3.0
+401645329,2024,Navy,Memphis,-8.5,-9.5,DraftKings,12.0
+401643711,2024,New Mexico,Fresno State,-13.5,-12.0,DraftKings,-17.0
+401643716,2024,North Texas,Wyoming,6.5,7.0,DraftKings,27.0
+401628979,2024,Notre Dame,Miami (OH),27.0,27.5,DraftKings,25.0
+401628492,2024,Ohio State,Marshall,39.0,40.0,DraftKings,35.0
+401628369,2024,Oklahoma,Tennessee,-6.5,-6.0,DraftKings,-10.0
+401636876,2024,Oklahoma State,Utah,-1.0,-1.0,DraftKings,-3.0
+401628366,2024,Ole Miss,Georgia Southern,35.0,35.0,DraftKings,39.0
+401643717,2024,Oregon State,Purdue,2.5,1.5,DraftKings,17.0
+401628493,2024,Penn State,Kent State,48.5,49.0,DraftKings,56.0
+401635557,2024,SMU,TCU,-2.5,-1.0,DraftKings,24.0
+401628370,2024,South Carolina,Akron,26.0,25.0,DraftKings,43.0
+401635555,2024,South Florida,Miami,-16.5,-17.0,DraftKings,-35.0
+401643715,2024,Temple,Utah State,-6.5,-6.5,DraftKings,16.0
+401628371,2024,Texas,UL Monroe,44.0,43.5,DraftKings,48.0
+401628372,2024,Texas A&M,Bowling Green,21.5,21.0,DraftKings,6.0
+401636877,2024,Texas Tech,Arizona State,4.5,4.5,DraftKings,8.0
+401645330,2024,UTSA,Houston Christian,35.5,35.5,DraftKings,38.0
+401628491,2024,Washington,Northwestern,12.0,11.5,DraftKings,19.0
+401641037,2024,Western Kentucky,Toledo,-2.5,-2.0,DraftKings,5.0
+401628374,2024,Alabama,Georgia,-2.0,-2.0,DraftKings,7.0
+401628375,2024,Auburn,Oklahoma,2.0,2.0,DraftKings,-6.0
+401636880,2024,Baylor,BYU,3.0,3.0,DraftKings,-6.0
+401643719,2024,Boise State,Washington State,6.5,6.5,DraftKings,21.0
+401635560,2024,Boston College,Western Kentucky,7.5,7.5,DraftKings,1.0
+401643795,2024,Bowling Green,Old Dominion,11.0,11.0,DraftKings,-3.0
+401643721,2024,Central Michigan,San Diego State,2.5,2.5,DraftKings,1.0
+401635561,2024,Clemson,Stanford,24.0,24.0,DraftKings,26.0
+401635562,2024,Duke,North Carolina,-1.5,-1.0,DraftKings,1.0
+401645334,2024,East Carolina,UTSA,2.5,2.0,DraftKings,10.0
+401640981,2024,Florida International,Louisiana Tech,-2.0,-2.0,DraftKings,7.0
+401643792,2024,Georgia State,Georgia Southern,3.5,3.5,DraftKings,-17.0
+401636881,2024,Houston,Iowa State,-16.5,-16.0,DraftKings,-20.0
+401628496,2024,Indiana,Maryland,7.5,7.5,DraftKings,14.0
+401643793,2024,James Madison,Ball State,22.0,22.0,DraftKings,56.0
+401636882,2024,Kansas,TCU,1.5,1.5,DraftKings,-11.0
+401636883,2024,Kansas State,Oklahoma State,6.0,6.0,DraftKings,22.0
+401644739,2024,Kent State,Eastern Michigan,-14.0,-14.0,DraftKings,-19.0
+401628376,2024,LSU,South Alabama,21.0,21.0,DraftKings,32.0
+401643794,2024,Marshall,Western Michigan,3.5,3.5,DraftKings,7.0
+401641025,2024,Memphis,Middle Tennessee,27.0,27.0,DraftKings,17.0
+401634767,2024,Miami,Virginia Tech,18.0,17.5,DraftKings,4.0
+401629043,2024,Miami (OH),Massachusetts,14.5,15.5,DraftKings,3.0
+401628497,2024,Michigan,Minnesota,10.5,10.5,DraftKings,3.0
+401628498,2024,Michigan State,Ohio State,-23.5,-23.5,DraftKings,-31.0
+401635564,2024,NC State,Northern Illinois,7.0,7.0,DraftKings,7.0
+401641035,2024,New Mexico State,New Mexico,-9.5,-9.5,DraftKings,-10.0
+401645336,2024,North Texas,Tulsa,7.0,7.0,DraftKings,32.0
+401628980,2024,Notre Dame,Louisville,6.5,6.5,DraftKings,7.0
+401644738,2024,Ohio,Akron,8.0,8.5,DraftKings,20.0
+401628377,2024,Ole Miss,Kentucky,14.5,15.0,DraftKings,-3.0
+401628495,2024,Penn State,Illinois,19.0,19.5,DraftKings,14.0
+401628499,2024,Purdue,Nebraska,-10.0,-10.0,DraftKings,-18.0
+401645333,2024,Rice,Charlotte,4.0,4.0,DraftKings,-1.0
+401641041,2024,Sam Houston,Texas State,-11.0,-11.0,DraftKings,1.0
+401635563,2024,SMU,Florida State,6.0,6.0,DraftKings,26.0
+401645331,2024,Temple,Army,-11.0,-11.0,DraftKings,-28.0
+401628378,2024,Texas,Mississippi State,37.0,37.0,DraftKings,22.0
+401628373,2024,Texas A&M,Arkansas,6.5,6.5,DraftKings,4.0
+401636884,2024,Texas Tech,Cincinnati,3.0,3.0,DraftKings,3.0
+401643796,2024,Troy,UL Monroe,6.0,6.0,DraftKings,-4.0
+401645337,2024,Tulane,South Florida,4.0,4.0,DraftKings,35.0
+401645332,2024,UAB,Navy,-4.5,-4.5,DraftKings,-23.0
+401636885,2024,UCF,Colorado,12.5,12.5,DraftKings,-27.0
+401628500,2024,UCLA,Oregon,-23.5,-23.5,DraftKings,-21.0
+401629032,2024,UConn,Buffalo,6.0,6.0,DraftKings,44.0
+401643720,2024,UNLV,Fresno State,2.5,2.5,DraftKings,45.0
+401628502,2024,USC,Wisconsin,13.5,14.0,DraftKings,17.0
+401636886,2024,Utah,Arizona,7.5,7.5,DraftKings,-13.0
+401635659,2024,Wake Forest,Louisiana,3.0,3.0,DraftKings,-3.0
+401643718,2024,Wyoming,Air Force,-4.0,-4.0,DraftKings,12.0
+401643722,2024,Air Force,Navy,-10.0,-10.0,DraftKings,-27.0
+401644740,2024,Akron,Bowling Green,-16.5,-17.0,DraftKings,-7.0
+401636887,2024,Arizona,Texas Tech,6.0,6.0,DraftKings,-6.0
+401636888,2024,Arizona State,Kansas,2.5,2.5,DraftKings,4.0
+401628379,2024,Arkansas,Tennessee,-14.0,-14.0,DraftKings,5.0
+401643800,2024,Arkansas State,South Alabama,-2.5,-2.5,DraftKings,2.0
+401644741,2024,Ball State,Western Michigan,-10.0,-10.0,DraftKings,-3.0
+401643723,2024,Boise State,Utah State,28.0,28.0,DraftKings,32.0
+401635568,2024,California,Miami,-10.0,-10.0,DraftKings,-1.0
+401645340,2024,Charlotte,East Carolina,-9.5,-9.5,DraftKings,31.0
+401643798,2024,Coastal Carolina,Old Dominion,4.0,4.0,DraftKings,8.0
+401628380,2024,Florida,UCF,-1.0,-1.0,DraftKings,11.0
+401635569,2024,Florida State,Clemson,-16.5,-16.5,DraftKings,-16.0
+401628381,2024,Georgia,Auburn,21.0,21.0,DraftKings,18.0
+401635570,2024,Georgia Tech,Duke,10.0,10.0,DraftKings,10.0
+401636889,2024,Iowa State,Baylor,13.0,13.0,DraftKings,22.0
+401641001,2024,Kennesaw State,Jacksonville State,-17.0,-17.5,DraftKings,-39.0
+401635571,2024,Louisville,SMU,7.0,6.5,DraftKings,-7.0
+401643799,2024,Marshall,App State,3.0,3.0,DraftKings,15.0
+401628507,2024,Minnesota,USC,-8.5,-8.5,DraftKings,7.0
+401635638,2024,NC State,Wake Forest,4.0,4.0,DraftKings,-4.0
+401635572,2024,North Carolina,Pittsburgh,-2.5,-2.5,DraftKings,-10.0
+401629044,2024,Northern Illinois,Massachusetts,14.0,14.0,DraftKings,14.0
+401628503,2024,Northwestern,Indiana,-12.5,-12.5,DraftKings,-17.0
+401628504,2024,Ohio State,Iowa,17.0,17.0,DraftKings,28.0
+401636890,2024,Oklahoma State,West Virginia,2.5,2.5,DraftKings,-24.0
+401628506,2024,Oregon,Michigan State,22.5,22.5,DraftKings,21.0
+401643724,2024,Oregon State,Colorado State,10.5,10.0,DraftKings,8.0
+401628510,2024,Penn State,UCLA,29.5,30.0,DraftKings,16.0
+401643725,2024,San Diego State,Hawai'i,1.5,1.5,DraftKings,3.0
+401643726,2024,San José State,Nevada,7.0,7.0,DraftKings,4.0
+401628382,2024,South Carolina,Ole Miss,-10.0,-10.0,DraftKings,-24.0
+401643802,2024,Southern Miss,Louisiana,-17.5,-17.5,DraftKings,-10.0
+401635573,2024,Stanford,Virginia Tech,-8.5,-9.5,DraftKings,-24.0
+401636891,2024,TCU,Houston,16.5,16.5,DraftKings,-11.0
+401628383,2024,Texas A&M,Missouri,2.5,3.0,DraftKings,31.0
+401644684,2024,Toledo,Miami (OH),4.5,4.5,DraftKings,10.0
+401643797,2024,Troy,Texas State,-14.5,-14.5,DraftKings,-21.0
+401645339,2024,Tulsa,Army,-14.0,-13.5,DraftKings,-42.0
+401645338,2024,UAB,Tulane,-20.0,-19.5,DraftKings,-51.0
+401629033,2024,UConn,Temple,17.5,17.5,DraftKings,9.0
+401643801,2024,UL Monroe,James Madison,-16.5,-16.5,DraftKings,2.0
+401634779,2024,UNLV,Syracuse,5.5,5.5,DraftKings,-3.0
+401641029,2024,UTEP,Sam Houston,-10.0,-10.0,DraftKings,-20.0
+401628384,2024,Vanderbilt,Alabama,-23.0,-23.5,DraftKings,5.0
+401635567,2024,Virginia,Boston College,2.0,2.0,DraftKings,10.0
+401628505,2024,Washington,Michigan,1.5,1.5,DraftKings,10.0
+401628509,2024,Wisconsin,Purdue,12.0,12.0,DraftKings,46.0
+401628385,2024,Alabama,South Carolina,21.5,21.0,DraftKings,2.0
+401636892,2024,Arizona State,Utah,-5.5,-6.0,DraftKings,8.0
+401645342,2024,Army,UAB,27.0,27.0,DraftKings,34.0
+401644744,2024,Bowling Green,Northern Illinois,3.0,3.0,DraftKings,-10.0
+401644745,2024,Buffalo,Toledo,-10.5,-10.5,DraftKings,15.0
+401636893,2024,BYU,Arizona,2.5,3.0,DraftKings,22.0
+401644746,2024,Central Michigan,Ohio,-3.0,-3.0,DraftKings,-2.0
+401643729,2024,Colorado State,San José State,2.5,2.5,DraftKings,7.0
+401644685,2024,Eastern Michigan,Miami (OH),-3.0,-3.0,DraftKings,-24.0
+401645343,2024,Florida Atlantic,North Texas,-5.5,-5.5,DraftKings,-4.0
+401643730,2024,Fresno State,Washington State,-3.5,-3.5,DraftKings,-8.0
+401628386,2024,Georgia,Mississippi State,33.0,34.0,DraftKings,10.0
+401643804,2024,Georgia Southern,Marshall,-1.0,1.0,DraftKings,1.0
+401643805,2024,Georgia State,Old Dominion,3.0,3.0,DraftKings,-7.0
+401643728,2024,Hawai'i,Boise State,-21.0,-21.0,DraftKings,-21.0
+401628511,2024,Illinois,Purdue,23.0,22.5,DraftKings,1.0
+401628512,2024,Iowa,Washington,3.0,2.5,DraftKings,24.0
+401641002,2024,Jacksonville State,New Mexico State,21.0,21.0,DraftKings,41.0
+401643803,2024,James Madison,Coastal Carolina,7.0,7.0,DraftKings,32.0
+401644743,2024,Kent State,Ball State,-3.0,-3.0,DraftKings,-2.0
+401628387,2024,Kentucky,Vanderbilt,13.0,12.5,DraftKings,-7.0
+401640982,2024,Liberty,Florida International,16.0,15.5,DraftKings,7.0
+401643806,2024,Louisiana,App State,10.0,10.0,DraftKings,10.0
+401641009,2024,Louisiana Tech,Middle Tennessee,5.0,5.0,DraftKings,27.0
+401628513,2024,Maryland,Northwestern,11.0,11.0,DraftKings,-27.0
+401628389,2024,Massachusetts,Missouri,-27.0,-27.0,DraftKings,-42.0
+401635574,2024,NC State,Syracuse,-1.0,-1.0,DraftKings,-7.0
+401643731,2024,Nevada,Oregon State,-3.0,-3.0,DraftKings,5.0
+401643727,2024,New Mexico,Air Force,7.0,7.0,DraftKings,15.0
+401635577,2024,North Carolina,Georgia Tech,-3.5,-3.5,DraftKings,-7.0
+401628981,2024,Notre Dame,Stanford,22.5,22.5,DraftKings,42.0
+401635575,2024,Pittsburgh,California,3.5,3.5,DraftKings,2.0
+401645344,2024,Rice,UTSA,-3.5,-3.5,DraftKings,2.0
+401645341,2024,South Florida,Memphis,-10.0,-10.0,DraftKings,-18.0
+401643808,2024,Texas State,Arkansas State,13.5,13.5,DraftKings,32.0
+401636895,2024,UCF,Cincinnati,2.5,2.0,DraftKings,-6.0
+401628514,2024,UCLA,Minnesota,-3.5,-3.5,DraftKings,-4.0
+401643807,2024,UL Monroe,Southern Miss,4.0,4.5,DraftKings,17.0
+401643733,2024,Utah State,UNLV,-18.5,-19.0,DraftKings,-16.0
+401635578,2024,Virginia,Louisville,-7.0,-7.0,DraftKings,-4.0
+401635576,2024,Wake Forest,Clemson,-21.0,-21.0,DraftKings,-35.0
+401641030,2024,Western Kentucky,UTEP,19.5,19.0,DraftKings,27.0
+401644742,2024,Western Michigan,Akron,9.5,9.5,DraftKings,10.0
+401636896,2024,West Virginia,Iowa State,-3.0,-3.0,DraftKings,-12.0
+401643732,2024,Wyoming,San Diego State,2.0,1.5,DraftKings,-3.0
+401643734,2024,Air Force,Colorado State,-6.0,-6.0,DraftKings,-8.0
+401636897,2024,Arizona,Colorado,2.5,2.5,DraftKings,-27.0
+401628392,2024,Arkansas,LSU,-3.0,-3.0,DraftKings,-24.0
+401645346,2024,Army,East Carolina,17.5,17.5,DraftKings,17.0
+401644748,2024,Bowling Green,Kent State,24.0,24.0,DraftKings,21.0
+401644749,2024,Buffalo,Western Michigan,-1.5,-1.0,DraftKings,-7.0
+401636898,2024,BYU,Oklahoma State,8.5,8.5,DraftKings,3.0
+401635587,2024,California,NC State,9.5,9.5,DraftKings,-1.0
+401636899,2024,Cincinnati,Arizona State,5.0,5.5,DraftKings,10.0
+401635588,2024,Clemson,Virginia,20.0,20.0,DraftKings,17.0
+401643811,2024,Coastal Carolina,Louisiana,-6.5,-6.0,DraftKings,-10.0
+401634769,2024,Duke,Florida State,3.0,2.5,DraftKings,7.0
+401644750,2024,Eastern Michigan,Central Michigan,3.5,3.5,DraftKings,4.0
+401628393,2024,Florida,Kentucky,-2.5,-2.5,DraftKings,28.0
+401643812,2024,Georgia Southern,James Madison,-10.0,-9.5,DraftKings,14.0
+401628982,2024,Georgia Tech,Notre Dame,-14.0,-14.0,DraftKings,-18.0
+401628518,2024,Illinois,Michigan,-6.0,-6.0,DraftKings,14.0
+401628519,2024,Indiana,Nebraska,6.5,6.5,DraftKings,49.0
+401636900,2024,Iowa State,UCF,13.0,13.0,DraftKings,3.0
+401636901,2024,Kansas,Houston,4.5,4.5,DraftKings,28.0
+401635589,2024,Louisville,Miami,-4.0,-4.5,DraftKings,-7.0
+401643810,2024,Marshall,Georgia State,9.5,9.5,DraftKings,15.0
+401628521,2024,Maryland,USC,-7.0,-6.5,DraftKings,1.0
+401645349,2024,Memphis,North Texas,10.5,10.5,DraftKings,8.0
+401644686,2024,Miami (OH),Ohio,3.5,3.5,DraftKings,10.0
+401628520,2024,Michigan State,Iowa,-6.5,-7.0,DraftKings,12.0
+401641019,2024,Middle Tennessee,Kennesaw State,8.0,8.5,DraftKings,9.0
+401628394,2024,Mississippi State,Texas A&M,-21.0,-21.0,DraftKings,-10.0
+401628395,2024,Missouri,Auburn,3.5,3.5,DraftKings,4.0
+401645347,2024,Navy,Charlotte,16.5,16.5,DraftKings,34.0
+401643735,2024,Nevada,Fresno State,-3.0,-3.0,DraftKings,-3.0
+401641010,2024,New Mexico State,Louisiana Tech,-12.5,-12.5,DraftKings,3.0
+401644751,2024,Northern Illinois,Toledo,3.0,3.0,DraftKings,-7.0
+401628522,2024,Northwestern,Wisconsin,-9.5,-9.5,DraftKings,-20.0
+401628396,2024,Oklahoma,South Carolina,-1.0,-1.0,DraftKings,-26.0
+401643813,2024,Old Dominion,Texas State,-10.5,-10.5,DraftKings,10.0
+401643739,2024,Oregon State,UNLV,-6.5,-6.5,DraftKings,-8.0
+401628523,2024,Purdue,Oregon,-29.5,-30.0,DraftKings,-35.0
+401641038,2024,Sam Houston,Western Kentucky,1.0,1.5,DraftKings,-17.0
+401643738,2024,San José State,Wyoming,13.0,13.0,DraftKings,10.0
+401643809,2024,South Alabama,Troy,10.0,10.0,DraftKings,16.0
+401643814,2024,Southern Miss,Arkansas State,-7.0,-7.0,DraftKings,-16.0
+401645345,2024,South Florida,UAB,14.0,14.0,DraftKings,10.0
+401635590,2024,Stanford,SMU,-16.5,-16.5,DraftKings,-30.0
+401645351,2024,Temple,Tulsa,3.0,3.5,DraftKings,10.0
+401628397,2024,Tennessee,Alabama,-3.5,-3.5,DraftKings,7.0
+401628398,2024,Texas,Georgia,4.0,4.0,DraftKings,-15.0
+401636902,2024,Texas Tech,Baylor,4.5,4.5,DraftKings,-24.0
+401645350,2024,Tulane,Rice,21.5,21.5,DraftKings,14.0
+401629034,2024,UConn,Wake Forest,-2.5,-2.5,DraftKings,-3.0
+401636903,2024,Utah,TCU,3.0,3.0,DraftKings,-6.0
+401643737,2024,Utah State,New Mexico,-1.0,-1.0,DraftKings,-5.0
+401640983,2024,UTEP,Florida International,-7.0,-7.0,DraftKings,9.0
+401645348,2024,UTSA,Florida Atlantic,4.0,4.0,DraftKings,14.0
+401628399,2024,Vanderbilt,Ball State,27.5,27.5,DraftKings,10.0
+401634768,2024,Virginia Tech,Boston College,8.0,8.5,DraftKings,21.0
+401643736,2024,Washington State,Hawai'i,19.0,18.5,DraftKings,32.0
+401636904,2024,West Virginia,Kansas State,-2.5,-2.5,DraftKings,-27.0
+401628400,2024,Alabama,Missouri,15.5,16.0,DraftKings,34.0
+401636909,2024,Kansas State,Kansas,10.0,10.0,DraftKings,2.0
+401645308,2024,Massachusetts,Wagner,23.0,23.0,DraftKings,28.0
+401635596,2024,Miami,Florida State,22.5,22.5,DraftKings,22.0
+401628529,2024,Michigan,Michigan State,3.0,3.5,DraftKings,7.0
+401628530,2024,Ohio State,Nebraska,25.0,25.0,DraftKings,4.0
+401628402,2024,Ole Miss,Oklahoma,19.5,19.0,DraftKings,12.0
+401628404,2024,Texas A&M,LSU,2.0,2.0,DraftKings,15.0
+401628531,2024,Wisconsin,Penn State,-6.0,-6.5,DraftKings,-15.0
+401644757,2024,Akron,Buffalo,-1.0,1.0,DraftKings,-11.0
+401643821,2024,App State,Old Dominion,-3.0,-2.5,DraftKings,8.0
+401628406,2024,Arkansas,Ole Miss,-8.5,-8.0,DraftKings,-32.0
+401643746,2024,Army,Air Force,18.0,18.0,DraftKings,17.0
+401628407,2024,Auburn,Vanderbilt,8.5,7.5,DraftKings,-10.0
+401636912,2024,Baylor,TCU,2.5,2.5,DraftKings,3.0
+401643747,2024,Boise State,San Diego State,24.5,24.5,DraftKings,32.0
+401645356,2024,Charlotte,Tulane,-14.5,-14.5,DraftKings,-31.0
+401635600,2024,Clemson,Louisville,11.0,11.0,DraftKings,-12.0
+401644758,2024,Eastern Michigan,Toledo,-10.0,-10.0,DraftKings,-1.0
+401645357,2024,Florida Atlantic,South Florida,-1.5,-1.5,DraftKings,-23.0
+401640985,2024,Florida International,New Mexico State,7.0,7.0,DraftKings,21.0
+401635602,2024,Florida State,North Carolina,-2.5,-2.5,DraftKings,-24.0
+401643749,2024,Fresno State,Hawai'i,12.5,12.0,DraftKings,-1.0
+401628408,2024,Georgia,Florida,15.0,14.5,DraftKings,14.0
+401636913,2024,Houston,Kansas State,-13.0,-12.5,DraftKings,5.0
+401628533,2024,Illinois,Minnesota,-3.0,-2.5,DraftKings,-8.0
+401628535,2024,Iowa,Wisconsin,2.5,2.5,DraftKings,32.0
+401636914,2024,Iowa State,Texas Tech,13.5,13.5,DraftKings,-1.0
+401640994,2024,Liberty,Jacksonville State,2.5,2.5,DraftKings,-10.0
+401643822,2024,Marshall,UL Monroe,10.5,10.5,DraftKings,5.0
+401635601,2024,Miami,Duke,21.0,21.0,DraftKings,22.0
+401628536,2024,Michigan,Oregon,-14.5,-14.5,DraftKings,-21.0
+401628534,2024,Michigan State,Indiana,-7.5,-7.5,DraftKings,-37.0
+401628409,2024,Mississippi State,Massachusetts,19.5,19.5,DraftKings,25.0
+401635516,2024,NC State,Stanford,9.5,10.0,DraftKings,31.0
+401628537,2024,Nebraska,UCLA,7.5,7.5,DraftKings,-7.0
+401643748,2024,Nevada,Colorado State,-2.0,-2.0,DraftKings,-17.0
+401643750,2024,New Mexico,Wyoming,8.0,7.5,DraftKings,-4.0
+401628410,2024,Oklahoma,Maine,37.5,37.5,DraftKings,45.0
+401636915,2024,Oklahoma State,Arizona State,-5.0,-5.0,DraftKings,-21.0
+401628539,2024,Penn State,Ohio State,-3.0,-3.0,DraftKings,-7.0
+401628538,2024,Purdue,Northwestern,2.5,3.0,DraftKings,-6.0
+401645360,2024,Rice,Navy,-12.5,-12.5,DraftKings,14.0
+401641012,2024,Sam Houston,Louisiana Tech,10.5,10.5,DraftKings,6.0
+401635627,2024,SMU,Pittsburgh,7.0,7.0,DraftKings,23.0
+401643823,2024,South Alabama,Georgia Southern,5.5,5.5,DraftKings,-4.0
+401628411,2024,South Carolina,Texas A&M,-3.0,-3.0,DraftKings,24.0
+401635604,2024,Syracuse,Virginia Tech,-3.5,-3.5,DraftKings,7.0
+401628412,2024,Tennessee,Kentucky,17.5,17.5,DraftKings,10.0
+401643820,2024,Texas State,Louisiana,4.0,4.0,DraftKings,-6.0
+401643824,2024,Troy,Coastal Carolina,-4.5,-4.0,DraftKings,14.0
+401645358,2024,UAB,Tulsa,2.5,2.5,DraftKings,38.0
+401636916,2024,UCF,Arizona,6.5,6.5,DraftKings,44.0
+401629036,2024,UConn,Georgia State,7.0,7.0,DraftKings,7.0
+401641026,2024,UTEP,Middle Tennessee,2.0,2.0,DraftKings,-7.0
+401645359,2024,UTSA,Memphis,-7.0,-7.0,DraftKings,8.0
+401628540,2024,Washington,USC,-2.0,-2.0,DraftKings,5.0
+401641020,2024,Western Kentucky,Kennesaw State,23.5,24.0,DraftKings,17.0
+401643757,2024,Air Force,Oregon State,-2.5,-3.0,DraftKings,28.0
+401628425,2024,Alabama,Mercer,42.0,42.0,DraftKings,45.0
+401636923,2024,Arizona,Houston,1.0,1.0,DraftKings,24.0
+401628419,2024,Arkansas,Texas,-12.0,-13.0,DraftKings,-10.0
+401628426,2024,Auburn,UL Monroe,24.5,24.5,DraftKings,34.0
+401644764,2024,Bowling Green,Western Michigan,9.5,9.5,DraftKings,18.0
+401644763,2024,Buffalo,Ball State,3.0,3.5,DraftKings,3.0
+401636924,2024,BYU,Kansas,2.0,3.0,DraftKings,-4.0
+401635581,2024,California,Syracuse,10.0,10.5,DraftKings,-8.0
+401645368,2024,Charlotte,South Florida,1.5,1.5,DraftKings,-35.0
+401643759,2024,Colorado State,Wyoming,9.0,8.5,DraftKings,14.0
+401628420,2024,Florida,LSU,-3.0,-3.0,DraftKings,11.0
+401628421,2024,Georgia,Tennessee,9.5,8.5,DraftKings,14.0
+401643830,2024,Georgia Southern,Troy,7.0,7.0,DraftKings,-8.0
+401643831,2024,Georgia State,Arkansas State,3.0,2.5,DraftKings,-7.0
+401628547,2024,Illinois,Michigan State,2.0,2.0,DraftKings,22.0
+401636926,2024,Iowa State,Cincinnati,7.0,7.0,DraftKings,17.0
+401640986,2024,Jacksonville State,Florida International,12.5,12.5,DraftKings,3.0
+401636927,2024,Kansas State,Arizona State,7.5,7.5,DraftKings,-10.0
+401641022,2024,Kennesaw State,Sam Houston,-21.0,-21.0,DraftKings,-6.0
+401628422,2024,Kentucky,Murray State,41.5,41.5,DraftKings,42.0
+401643834,2024,Louisiana,South Alabama,6.5,6.5,DraftKings,-2.0
+401643832,2024,Marshall,Coastal Carolina,7.5,7.5,DraftKings,12.0
+401629046,2024,Massachusetts,Liberty,-14.5,-17.0,DraftKings,-1.0
+401645367,2024,Memphis,UAB,16.5,16.0,DraftKings,35.0
+401644689,2024,Miami (OH),Kent State,30.5,31.0,DraftKings,27.0
+401645370,2024,Navy,Tulane,-7.0,-7.5,DraftKings,-35.0
+401643761,2024,New Mexico,Washington State,-10.5,-10.5,DraftKings,3.0
+401635583,2024,North Carolina,Wake Forest,10.0,10.5,DraftKings,7.0
+401644766,2024,Northern Illinois,Akron,14.0,14.0,DraftKings,13.0
+401628550,2024,Northwestern,Ohio State,-28.5,-28.0,DraftKings,-24.0
+401628985,2024,Notre Dame,Virginia,21.5,20.5,DraftKings,21.0
+401644767,2024,Ohio,Eastern Michigan,10.5,10.5,DraftKings,25.0
+401643833,2024,Old Dominion,James Madison,-2.5,-1.5,DraftKings,-3.0
+401635582,2024,Pittsburgh,Clemson,-11.5,-12.0,DraftKings,-4.0
+401628552,2024,Purdue,Penn State,-30.0,-30.0,DraftKings,-39.0
+401643758,2024,San José State,Boise State,-14.0,-14.5,DraftKings,-21.0
+401635580,2024,SMU,Boston College,19.0,19.0,DraftKings,10.0
+401628423,2024,South Carolina,Missouri,10.5,10.5,DraftKings,4.0
+401635517,2024,Stanford,Louisville,-21.0,-21.0,DraftKings,3.0
+401645369,2024,Temple,Florida Atlantic,2.0,2.0,DraftKings,3.0
+401628424,2024,Texas A&M,New Mexico State,39.5,38.5,DraftKings,35.0
+401643835,2024,Texas State,Southern Miss,27.5,27.5,DraftKings,55.0
+401644765,2024,Toledo,Central Michigan,15.0,15.0,DraftKings,27.0
+401645365,2024,Tulsa,East Carolina,-16.5,-16.0,DraftKings,-7.0
+401643762,2024,UNLV,San Diego State,21.5,22.0,DraftKings,21.0
+401628549,2024,USC,Nebraska,6.5,6.5,DraftKings,8.0
+401643760,2024,Utah State,Hawai'i,-2.5,-2.5,DraftKings,45.0
+401645366,2024,UTSA,North Texas,1.5,1.0,DraftKings,21.0
+401628553,2024,Washington,UCLA,5.0,4.5,DraftKings,12.0
+401641013,2024,Western Kentucky,Louisiana Tech,12.5,11.5,DraftKings,-5.0
+401636929,2024,West Virginia,Baylor,-2.5,-2.0,DraftKings,-14.0
+401628551,2024,Wisconsin,Oregon,-13.5,-13.5,DraftKings,-3.0
+401643836,2024,App State,James Madison,-7.0,-7.5,DraftKings,14.0
+401636930,2024,Arizona State,BYU,3.5,3.5,DraftKings,5.0
+401628427,2024,Arkansas,Louisiana Tech,23.5,23.5,DraftKings,21.0
+401643839,2024,Arkansas State,UL Monroe,3.0,3.0,DraftKings,7.0
+401628428,2024,Auburn,Texas A&M,-2.5,-2.5,DraftKings,2.0
+401644774,2024,Ball State,Bowling Green,-12.5,-12.5,DraftKings,-25.0
+401635612,2024,Boston College,North Carolina,-3.0,-2.0,DraftKings,20.0
+401635613,2024,California,Stanford,14.5,15.0,DraftKings,3.0
+401644770,2024,Central Michigan,Western Michigan,-6.0,-6.0,DraftKings,2.0
+401635614,2024,Clemson,The Citadel,49.5,49.5,DraftKings,37.0
+401643837,2024,Coastal Carolina,Georgia Southern,2.0,2.0,DraftKings,-20.0
+401635615,2024,Duke,Virginia Tech,-2.5,-2.5,DraftKings,3.0
+401644772,2024,Eastern Michigan,Buffalo,1.0,1.0,DraftKings,-17.0
+401628429,2024,Florida,Ole Miss,-12.5,-13.0,DraftKings,7.0
+401645371,2024,Florida Atlantic,Charlotte,-3.0,-3.0,DraftKings,-12.0
+401635616,2024,Florida State,Charleston Southern,33.0,33.0,DraftKings,34.0
+401643765,2024,Fresno State,Colorado State,3.0,3.5,DraftKings,6.0
+401628430,2024,Georgia,Massachusetts,42.0,42.5,DraftKings,38.0
+401634772,2024,Georgia Tech,NC State,8.5,7.5,DraftKings,1.0
+401636931,2024,Houston,Baylor,-7.0,-7.0,DraftKings,-10.0
+401641005,2024,Jacksonville State,Sam Houston,5.0,5.5,DraftKings,10.0
+401636933,2024,Kansas State,Cincinnati,7.5,7.5,DraftKings,26.0
+401640987,2024,Kennesaw State,Florida International,-9.0,-9.0,DraftKings,1.0
+401644769,2024,Kent State,Akron,-10.5,-10.5,DraftKings,-21.0
+401640996,2024,Liberty,Western Kentucky,1.0,1.0,DraftKings,17.0
+401643840,2024,Louisiana,Troy,7.5,7.5,DraftKings,21.0
+401635617,2024,Louisville,Pittsburgh,7.5,7.0,DraftKings,28.0
+401628431,2024,LSU,Vanderbilt,9.5,10.0,DraftKings,7.0
+401628556,2024,Maryland,Iowa,-4.0,-4.0,DraftKings,-16.0
+401635618,2024,Miami,Wake Forest,23.5,23.5,DraftKings,28.0
+401644690,2024,Miami (OH),Northern Illinois,1.5,1.5,DraftKings,11.0
+401628557,2024,Michigan,Northwestern,10.5,10.5,DraftKings,44.0
+401628558,2024,Michigan State,Purdue,14.0,14.0,DraftKings,7.0
+401641027,2024,Middle Tennessee,New Mexico State,3.0,3.5,DraftKings,-15.0
+401628559,2024,Minnesota,Penn State,-11.0,-11.0,DraftKings,-1.0
+401628432,2024,Mississippi State,Missouri,-9.5,-9.5,DraftKings,-19.0
+401628560,2024,Nebraska,Wisconsin,1.0,1.5,DraftKings,19.0
+401643763,2024,Nevada,Air Force,2.5,3.0,DraftKings,-3.0
+401640959,2024,Notre Dame,Army,14.5,14.5,DraftKings,35.0
+401628555,2024,Ohio State,Indiana,10.5,10.5,DraftKings,23.0
+401628433,2024,Oklahoma,Alabama,-13.5,-14.0,DraftKings,21.0
+401636934,2024,Oklahoma State,Texas Tech,-5.0,-5.0,DraftKings,-8.0
+401643838,2024,Old Dominion,Marshall,3.0,3.0,DraftKings,-7.0
+401628572,2024,Oregon State,Washington State,-11.0,-11.0,DraftKings,3.0
+401643767,2024,San José State,UNLV,-7.5,-7.5,DraftKings,-11.0
+401628434,2024,South Carolina,Wofford,42.5,42.5,DraftKings,44.0
+401643841,2024,Southern Miss,South Alabama,-24.0,-24.0,DraftKings,-21.0
+401645375,2024,South Florida,Tulsa,17.0,17.5,DraftKings,33.0
+401635518,2024,Syracuse,UConn,10.0,10.0,DraftKings,7.0
+401636935,2024,TCU,Arizona,11.0,10.5,DraftKings,21.0
+401628435,2024,Tennessee,UTEP,41.5,41.5,DraftKings,56.0
+401628436,2024,Texas,Kentucky,19.0,18.5,DraftKings,17.0
+401643842,2024,Texas State,Georgia State,23.0,23.0,DraftKings,-8.0
+401644773,2024,Toledo,Ohio,1.5,1.5,DraftKings,-17.0
+401645373,2024,UAB,Rice,-7.0,-7.0,DraftKings,26.0
+401628561,2024,UCLA,USC,-4.5,-5.0,DraftKings,-6.0
+401636936,2024,Utah,Iowa State,-6.5,-6.5,DraftKings,-3.0
+401643766,2024,Utah State,San Diego State,5.0,5.0,DraftKings,21.0
+401645374,2024,UTSA,Temple,16.5,16.5,DraftKings,24.0
+401635619,2024,Virginia,SMU,-10.5,-11.5,DraftKings,-26.0
+401636937,2024,West Virginia,UCF,-3.0,-3.0,DraftKings,10.0
+401643764,2024,Wyoming,Boise State,-22.0,-22.0,DraftKings,-4.0
+401644775,2024,Akron,Toledo,-9.5,-9.0,DraftKings,7.0
+401643847,2024,Arkansas State,Old Dominion,-5.5,-5.5,DraftKings,-8.0
+401645378,2024,Army,UTSA,6.5,6.0,DraftKings,5.0
+401636941,2024,Baylor,Kansas,1.0,-1.5,DraftKings,28.0
+401643769,2024,Boise State,Oregon State,18.0,17.5,DraftKings,16.0
+401644691,2024,Bowling Green,Miami (OH),2.5,3.0,DraftKings,-16.0
+401644776,2024,Buffalo,Kent State,24.0,23.5,DraftKings,36.0
+401645377,2024,Charlotte,UAB,1.0,-1.0,DraftKings,2.0
+401628444,2024,Clemson,South Carolina,2.5,3.0,DraftKings,-3.0
+401636938,2024,Colorado,Oklahoma State,16.5,15.0,DraftKings,52.0
+401643770,2024,Colorado State,Utah State,5.5,5.0,DraftKings,5.0
+401645379,2024,East Carolina,Navy,2.5,3.0,DraftKings,-14.0
+401640988,2024,Florida International,Middle Tennessee,8.0,10.0,DraftKings,11.0
+401628439,2024,Georgia,Georgia Tech,17.5,17.0,DraftKings,2.0
+401643844,2024,Georgia Southern,App State,2.5,2.5,DraftKings,9.0
+401643845,2024,Georgia State,Coastal Carolina,-1.0,1.0,DraftKings,-21.0
+401643771,2024,Hawai'i,New Mexico,-4.0,-6.5,DraftKings,8.0
+401643846,2024,James Madison,Marshall,3.5,4.0,DraftKings,-2.0
+401641014,2024,Louisiana Tech,Kennesaw State,10.5,10.0,DraftKings,33.0
+401629038,2024,Massachusetts,UConn,-10.5,-8.0,DraftKings,-5.0
+401628443,2024,Missouri,Arkansas,3.0,3.0,DraftKings,7.0
+401641031,2024,New Mexico State,UTEP,3.0,3.5,DraftKings,-7.0
+401644779,2024,Northern Illinois,Central Michigan,13.5,13.5,DraftKings,8.0
+401644777,2024,Ohio,Ball State,17.5,18.0,DraftKings,21.0
+401645382,2024,Rice,South Florida,-6.0,-5.5,DraftKings,7.0
+401640997,2024,Sam Houston,Liberty,-2.0,-2.5,DraftKings,2.0
+401643768,2024,San Diego State,Air Force,-5.5,-6.0,DraftKings,-11.0
+401635625,2024,San José State,Stanford,2.5,2.5,DraftKings,3.0
+401635621,2024,SMU,California,12.5,12.5,DraftKings,32.0
+401643843,2024,South Alabama,Texas State,-1.5,-2.5,DraftKings,-7.0
+401635623,2024,Syracuse,Miami,-12.0,-12.0,DraftKings,4.0
+401645381,2024,Temple,North Texas,-11.0,-12.0,DraftKings,-7.0
+401643849,2024,Troy,Southern Miss,17.5,17.5,DraftKings,32.0
+401645376,2024,Tulane,Memphis,13.5,12.5,DraftKings,-10.0
+401645380,2024,Tulsa,Florida Atlantic,1.0,1.0,DraftKings,-47.0
+401628570,2024,UCLA,Fresno State,7.5,7.5,DraftKings,7.0
+401643848,2024,UL Monroe,Louisiana,-10.0,-8.5,DraftKings,-14.0
+401643772,2024,UNLV,Nevada,17.5,17.5,DraftKings,24.0
+401628446,2024,Vanderbilt,Tennessee,-10.5,-9.5,DraftKings,-13.0
+401643773,2024,Washington State,Wyoming,18.5,18.5,DraftKings,-1.0
+401641006,2024,Western Kentucky,Jacksonville State,-1.0,1.0,DraftKings,2.0
+401644780,2024,Western Michigan,Eastern Michigan,6.5,6.0,DraftKings,8.0
+401673465,2024,Arizona State,Iowa State,1.5,-1.5,DraftKings,26.0
+401673462,2024,Army,Tulane,-5.0,-5.0,DraftKings,21.0
+401673468,2024,Boise State,UNLV,4.0,4.0,DraftKings,14.0
+401673466,2024,Jacksonville State,Western Kentucky,4.0,4.5,DraftKings,40.0
+401673467,2024,Miami (OH),Ohio,2.5,2.5,DraftKings,-35.0
+401673464,2024,Oregon,Penn State,3.0,3.5,DraftKings,8.0
+401673463,2024,SMU,Clemson,3.0,2.5,DraftKings,-3.0
+401673469,2024,Texas,Georgia,3.0,3.0,DraftKings,-3.0
+401645383,2024,Army,Navy,6.0,6.5,DraftKings,-18.0
